@@ -1,0 +1,26 @@
+static and dynamic type langs.
+Examples of static and dynamic langs.
+What is complier and interpreter.
+WHAT is python?
+duck typing.
+MEMORY MANAGEMENT in python.
+importing modules.
+iterators.
+diff b/w package and module.
+python DATATYPES.
+list,tuple,string,dictionary,number,set.
+list comprehension.
+difference b/w MUTABLE & IMMUTABLE.
+commandline arguments.
+FUNCTIONS.
+args, kwargs.
+zip,map &lambda.
+generators.
+Decorators.
+classes.
+cls attributes.
+diff b/w cls & instance vars.
+static,class,rgular methods.
+@property.
+inheritance, polymorphism.
+Abstract base cls.
